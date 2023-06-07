@@ -1,0 +1,15 @@
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\bin\Debug\net6.0\Practice7.1.exe
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\bin\Debug\net6.0\Practice7.1.deps.json
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\bin\Debug\net6.0\Practice7.1.runtimeconfig.json
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\bin\Debug\net6.0\Practice7.1.dll
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\bin\Debug\net6.0\Practice7.1.pdb
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.csproj.AssemblyReference.cache
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.AssemblyInfoInputs.cache
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.AssemblyInfo.cs
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.csproj.CoreCompileInputs.cache
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.dll
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\refint\Practice7.1.dll
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.pdb
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\Practice7.1.genruntimeconfig.cache
+C:\Практики\Практическая работа №7\Practice7.1\Practice7.1\obj\Debug\net6.0\ref\Practice7.1.dll
