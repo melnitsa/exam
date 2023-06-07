@@ -1,0 +1,15 @@
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\bin\Debug\net6.0\Practice 3.1.exe
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\bin\Debug\net6.0\Practice 3.1.deps.json
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\bin\Debug\net6.0\Practice 3.1.runtimeconfig.json
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\bin\Debug\net6.0\Practice 3.1.dll
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\bin\Debug\net6.0\Practice 3.1.pdb
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.csproj.AssemblyReference.cache
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.AssemblyInfoInputs.cache
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.AssemblyInfo.cs
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.csproj.CoreCompileInputs.cache
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.dll
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\refint\Practice 3.1.dll
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.pdb
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\Practice 3.1.genruntimeconfig.cache
+C:\Users\nikrm\OneDrive\Рабочий стол\Практики для проекта\Практическая работа №3\Practice 3.1\Practice 3.1\obj\Debug\net6.0\ref\Practice 3.1.dll
