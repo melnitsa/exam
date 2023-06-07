@@ -1,0 +1,30 @@
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.AssemblyInfo.cs
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.exe
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.deps.json
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.runtimeconfig.json
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.dll
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.pdb
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.dll
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\refint\Practice 12.dll
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.pdb
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.genruntimeconfig.cache
+D:\Visual Studio 2022\My Projects\Practice 12\Practice 12\obj\Debug\net6.0\ref\Practice 12.dll
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.exe
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.deps.json
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.runtimeconfig.json
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.dll
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\bin\Debug\net6.0\Practice 12.pdb
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.csproj.AssemblyReference.cache
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.AssemblyInfoInputs.cache
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.AssemblyInfo.cs
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.csproj.CoreCompileInputs.cache
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.dll
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\refint\Practice 12.dll
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.pdb
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\Practice 12.genruntimeconfig.cache
+C:\Практики\Практическая работа №12\Practice 12\Practice 12\obj\Debug\net6.0\ref\Practice 12.dll
