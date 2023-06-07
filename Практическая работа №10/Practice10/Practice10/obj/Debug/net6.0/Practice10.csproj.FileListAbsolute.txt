@@ -1,0 +1,15 @@
+C:\Практики\Практическая работа №10\Practice10\Practice10\bin\Debug\net6.0\Practice10.exe
+C:\Практики\Практическая работа №10\Practice10\Practice10\bin\Debug\net6.0\Practice10.deps.json
+C:\Практики\Практическая работа №10\Practice10\Practice10\bin\Debug\net6.0\Practice10.runtimeconfig.json
+C:\Практики\Практическая работа №10\Practice10\Practice10\bin\Debug\net6.0\Practice10.dll
+C:\Практики\Практическая работа №10\Practice10\Practice10\bin\Debug\net6.0\Practice10.pdb
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.csproj.AssemblyReference.cache
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.AssemblyInfoInputs.cache
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.AssemblyInfo.cs
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.csproj.CoreCompileInputs.cache
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.dll
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\refint\Practice10.dll
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.pdb
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\Practice10.genruntimeconfig.cache
+C:\Практики\Практическая работа №10\Practice10\Practice10\obj\Debug\net6.0\ref\Practice10.dll
