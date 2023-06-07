@@ -1,0 +1,15 @@
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\bin\Debug\net6.0\Practice9.1.exe
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\bin\Debug\net6.0\Practice9.1.deps.json
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\bin\Debug\net6.0\Practice9.1.runtimeconfig.json
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\bin\Debug\net6.0\Practice9.1.dll
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\bin\Debug\net6.0\Practice9.1.pdb
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.csproj.AssemblyReference.cache
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.AssemblyInfoInputs.cache
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.AssemblyInfo.cs
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.csproj.CoreCompileInputs.cache
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.dll
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\refint\Practice9.1.dll
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.pdb
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\Practice9.1.genruntimeconfig.cache
+C:\Практики\Практическая работа №9\Practice9.1\Practice9.1\obj\Debug\net6.0\ref\Practice9.1.dll
