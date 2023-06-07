@@ -1,0 +1,15 @@
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\bin\Debug\net6.0\Practice 13.exe
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\bin\Debug\net6.0\Practice 13.deps.json
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\bin\Debug\net6.0\Practice 13.runtimeconfig.json
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\bin\Debug\net6.0\Practice 13.dll
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\bin\Debug\net6.0\Practice 13.pdb
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.AssemblyInfo.cs
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.dll
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\refint\Practice 13.dll
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.pdb
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\Practice 13.genruntimeconfig.cache
+D:\Visual Studio 2022\My Projects\Practice 13\Practice 13\obj\Debug\net6.0\ref\Practice 13.dll
